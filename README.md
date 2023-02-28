@@ -8,3 +8,8 @@ This file is
 ### Installation Instractions
 Lorem ipsum
 
+### Todo list
+* 1
+* 2
+* 3
+
